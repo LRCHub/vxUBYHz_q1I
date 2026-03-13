@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Attention",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-03-13T13:00:10.438037Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "Kelis feat. Raphael Saadiq",
+      "has_synced": true,
+      "path": "select/01_Attention_Kelis_feat._Raphael_Saadiq.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/02_Attention_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get God’s Attention By Being An Atheist",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/03_Get_God’s_Attention_By_Being_An_Atheist_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inner City Life - Rabbit's Short Attention Span Edit",
+      "artist": "Goldie",
+      "has_synced": false,
+      "path": "select/04_Inner_City_Life_-_Rabbit's_Short_Attention_Span_Edit_Goldie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Attention Whore (feat. Channel Tres)",
+      "artist": "Tove Lo feat. Channel Tres",
+      "has_synced": true,
+      "path": "select/05_Attention_Whore_(feat._Channel_Tres)_Tove_Lo_feat._Channel_Tres.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Attention Whore",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/06_Attention_Whore_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Always Gold - Short Attention Span Mix",
+      "artist": "Radical Face",
+      "has_synced": false,
+      "path": "select/07_Always_Gold_-_Short_Attention_Span_Mix_Radical_Face.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/08_Attention_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Attention Whore",
+      "artist": "melleefresh vs. deadmau5",
+      "has_synced": true,
+      "path": "select/09_Attention_Whore_melleefresh_vs._deadmau5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams",
+      "has_synced": true,
+      "path": "select/10_Attention_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/11_Attention_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End of the Attention Span",
+      "artist": "Armored Saint",
+      "has_synced": true,
+      "path": "select/12_End_of_the_Attention_Span_Armored_Saint.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "HVOB",
+      "has_synced": true,
+      "path": "select/13_Attention_HVOB.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "Pretty Maids",
+      "has_synced": false,
+      "path": "select/14_Attention_Pretty_Maids.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "We Are The In Crowd",
+      "has_synced": true,
+      "path": "select/15_Attention_We_Are_The_In_Crowd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Attention (Feat. Raphael Saadiq)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/16_Attention_(Feat._Raphael_Saadiq)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Attention Span Of A Butterfly",
+      "artist": "Kid Loco",
+      "has_synced": true,
+      "path": "select/17_The_Attention_Span_Of_A_Butterfly_Kid_Loco.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Attention",
+      "artist": "The Raconteurs",
+      "has_synced": true,
+      "path": "select/18_Attention_The_Raconteurs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Attention",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_Attention_Charlie_Puth.txt"
+    }
+  ]
+}
